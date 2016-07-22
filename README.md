@@ -1,4 +1,4 @@
-# AirtelMoney Library
+﻿# AirtelMoney Library
 
 Airtel Merchant Query API.
 
@@ -14,6 +14,14 @@ Airtel Merchant Query API.
       - password.
       - timefrom.
       - timeto.
+
+## Initiate a transaction from the web form
+   This methods allow to start a airtel money tranaction from the web
+   It requires some parameters
+   * students' number
+   * the amount to pay
+   * a temporary pin based on both the students' airtel money pin the amount and temporary number.
+   - 
 
 ## Contributors
     Derrick Rono
